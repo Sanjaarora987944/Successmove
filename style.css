@@ -76,9 +76,16 @@ footer{
         opacity: 0.4;
         transition: 0.5s;}
        .imgsome{
-        padding-left: 50px;
+        align-items: left;
+        width: 190px;
+        padding-top: 15px;
        }
 }
 .imgsome{
-   margin-top: 50px;
+  
+    
+  
    }
+.Home{
+    background-image: url(PHOTO/pexels-photo-697244.jpeg);
+}
